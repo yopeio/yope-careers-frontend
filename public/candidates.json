@@ -1,0 +1,16 @@
+[{
+  "id": 1,
+  "first_name": "Patrick",
+  "last_name": "Kim",
+  "email": "pkim0@twitter.com",
+  "gender": "Male",
+  "ip_address": "96.145.80.132"
+}, {
+  "id": 2,
+  "first_name": "Julia",
+  "last_name": "Gordon",
+  "email": "jgordon1@google.com.au",
+  "gender": "Female",
+  "ip_address": "164.174.125.92"
+}
+]
